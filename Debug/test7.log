@@ -1,0 +1,3 @@
+﻿  test7.c
+C:\Users\Kim SeonHee\source\repos\test7\test7\test7.c(5,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  test7.vcxproj -> C:\Users\Kim SeonHee\source\repos\test7\Debug\test7.exe
